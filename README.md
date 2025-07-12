@@ -31,7 +31,7 @@ Choose your move — the computer picks one at random. The first to reach a scor
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - GitHub Pages (for deployment)
 
 ---
