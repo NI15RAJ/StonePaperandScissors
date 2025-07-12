@@ -4,14 +4,7 @@
 
 **🔗 Live Demo:** [https://ni15raj.github.io/Stone-Paper-Scissors](https://ni15raj.github.io/Stone-Paper-Scissors)
 
----
 
-## 📸 Preview
-
-![Stone Paper Scissors Game](https://via.placeholder.com/800x400?text=Game+Preview)
-<!-- Replace with an actual screenshot if available -->
-
----
 
 ## 🎮 How to Play
 
