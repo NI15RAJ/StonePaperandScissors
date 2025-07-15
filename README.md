@@ -2,7 +2,7 @@
 
 > A classic game of Stone (Rock), Paper, and Scissors built with HTML, CSS, and JavaScript.
 
-**🔗 Live Demo:** [https://ni15raj.github.io/Stone-Paper-Scissors](https://ni15raj.github.io/Stone-Paper-Scissors)
+**🔗 Live Demo:** [https://ni15raj.github.io/StonePaperandScissors/](https://ni15raj.github.io/StonePaperandScissors/)
 
 
 
